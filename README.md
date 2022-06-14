@@ -1,7 +1,5 @@
 # DATA FORGERY
 
-> untuk memenuhi tugas EPTIK
-
 <!-- add image here -->
 ![UBSI](images/ubsi.png)
 
@@ -36,7 +34,7 @@ Adapun maksud dan tujuan dari di buatnya makalah ini adalah :
 
 Sedangkan tujuan dari dibuatnya penulisan makalah ini adalah untuk memenuhi tugas dari mata kuliah Etika Profesi Teknologi Informasi dan Komunikasi di semester enam Program Studi Sistem Informasi. di Universitas Bina Sarana Informatika Kampus Karawang.
 <!-- end of bab 1 -->  
-
+****************************************************************
 
 <!-- bab dua -->
 #### BAB II
@@ -53,11 +51,11 @@ something goes here...
 
 #### BAB IV
 
-something goes here ...
+something goes here...
 
 ****************************************************************
 <!-- bagian about us -->
-#### Tentang Kami
+#### TENTANG KAMI
 
 > Blog ini didedikasikan untuk memenuhi tugas kelompok EPTIK
 > dengan judul DATA FORGERY.
