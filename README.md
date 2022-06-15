@@ -91,7 +91,7 @@ Ruang lingkup cyberlaw di Indonesia (Napitupulu, 2017), diantaranya:
 
 ##### A. Pengertian Data Forgery
 
-Pengertian data adalah kumpulan kejadian yang diangkat dari suatu kenyataan dapat berupa angka-angka, huruf, simbol-simbol khusus, atau gabungan dari ketiganya. Data masih belum dapat ‘bercerita’ banyak sehingga perlu diolah lebih lanjut. Pengertian data juga bisa berarti kumpulan file atau informasi dengan tipe tertentu, baik suara, ganbar atau yang lainnya. 
+Pengertian data adalah kumpulan kejadian yang diangkat dari suatu kenyataan dapat berupa angka-angka, huruf, simbol-simbol khusus, atau gabungan dari ketiganya. Data masih belum dapat ‘bercerita’ banyak sehingga perlu diolah lebih lanjut. Pengertian data juga bisa berarti kumpulan file atau informasi dengan tipe tertentu, baik suara, gambar atau yang lainnya. 
 
 Menurut kamus oxford  definisi data adalah “facts or information used in deciding or discussing something”. Terjemahannya adalah “fakta atau informasi yang digunakan dalam menentukan atau mendiskusikan sesuatu”. Juga bisa berarti “information prepared for or stored by a computer” dalam bahasa Indonesia berarti “informasi yang disiapkan untuk atau disimpan oleh komputer.
 
@@ -125,11 +125,11 @@ Adapun faktor pendorong penyebab terjadinya data forgery adalah sebagai beri
 
 Data Forgery Pada KPU.go.id
 
-Pada hari rabu 17/4/2004, Dany Firmansyah (25 tahun) konsultan teknologi informasi TI, PT. Dana reksa di Jakarta, berhasil membobol situs milik KPU dihttp://tnp.kpu.go.id dan mengubah nama-nama partai di dalamnya menjadi nama unik seperti partai kolor ijo, partai mbah jambon, partai jambu dan sebagainya. Dani menggunakan teknik SQL injection (pada dasarnya teknik tersebut adalah dengan cara mengetikkan string atau perintah tertentu di address bar browser) untuk menjebol situs KPU, kemudian Dani tertangkap pada kamis 22/4/2004. Ancaman hukuman bagi tindakan yang dilakukan Dani Firmansyah adalah sesuai dengan bunyi pasal 50 UU No 36/1999 tentang telekomunikasi berbunyi ”Barang siapa yang melanggar ketentuan sebagaimana dimaksud dalam pasal 22, dipidana dengan pidana penjara paling lama 6 tahun dan atau denda paling banyak  Rp 600.000.000,00.
+Pada hari rabu 17/4/2004, Dani Firmansyah (25 tahun) konsultan teknologi informasi TI, PT. Dana Reksa di Jakarta, berhasil membobol situs milik KPU di http://tnp.kpu.go.id dan mengubah nama-nama partai di dalamnya menjadi nama unik seperti partai kolor ijo, partai mbah jambon, partai jambu dan sebagainya. Dani menggunakan teknik SQL injection (pada dasarnya teknik tersebut adalah dengan cara mengetikkan string atau perintah tertentu di address bar browser) untuk menjebol situs KPU, kemudian Dani tertangkap pada kamis 22/4/2004. Ancaman hukuman bagi tindakan yang dilakukan Dani Firmansyah adalah sesuai dengan bunyi pasal 50 UU No 36/1999 tentang telekomunikasi berbunyi ”Barang siapa yang melanggar ketentuan sebagaimana dimaksud dalam pasal 22, dipidana dengan pidana penjara paling lama 6 tahun dan atau denda paling banyak  Rp 600.000.000,00.
 
 ##### E. Analisa dan Penanggulangan
 
-Setelah dilihat dari kasus diatas maka Dany Firmansyah termasuk dalam data forgery yaitu memalsukan data pada data dokumen-dokumen penting yang ada di internal dan adapun dasar hukum yang dipakai untuk menjerat Dani Firmansyah adalah dijerat dengan pasal-pasal UU No36/1999 tentang Telekomunikasi, yang merupakan bentuk Lex specialis dari KUHP dibidang cybercrime.  Ada tiga pasal yang menjerat adalah sebagai berikut: 
+Setelah dilihat dari kasus diatas maka Dani Firmansyah termasuk dalam data forgery yaitu memalsukan data pada data dokumen-dokumen penting yang ada di internal dan adapun dasar hukum yang dipakai untuk menjerat Dani Firmansyah adalah dijerat dengan pasal-pasal UU No36/1999 tentang Telekomunikasi, yang merupakan bentuk Lex specialis dari KUHP dibidang cybercrime.  Ada tiga pasal yang menjerat adalah sebagai berikut: 
 
 Dani Firmansyah, hacker situs KPU dinilai terbukti melakukan tindak pidana yang melanggar pasal 22 huruf a,b,c pasal 38 dan pasal 50 UU No 36tahun 1999 tentang telekomunikasi. Pada pasal 22 UU Telekomunikasi berbunyi: setiap orang dilarang melakukan perbuatan tanpa hak, tidak sah atau memanipulasi:
 
@@ -141,7 +141,7 @@ Unsur-unsur pasal ini telah terpenuhi dengan pembobolan situs KPU yang dilakukan
 
 1. UU  ITE No 11 pasal 27 ayat 3 tahun 2008, yang berbunyi: ”setiap orang dengan sengaja dan tanpa hak mendistribusikan dan atau mentransmisikan dan atau membuat dapat diaksesnya informasi Elektronik dan atau Dokumen Elektronik yang memilik muatan penghinaan dan atau pencemaran nama baik. 
 
-2. UU ITE No 11 pasal 30 ayat 3 tahun 2008, yang berbunyi: ”Setiap orang dengan sengaja dan tanpa hak atau melawan hukum mengakses computer dan atau sistem Elektronik dengan cara apa pun dengan melanggar, menerobos, melampaui, atau menjebol sistem pengamanan karena Dani Firmansyah telah terbukti, dia melakukan penghinaan dan pencemaran nama baik partai-partai yang ada dalam situs KPU dengan cara mengganti-ganti nama partai tersebut. tidak hanya itu Dani Firmansyah juga telah terbukti jelas bahwa dia melakukan menjebolkan sistem keamanan pada situs KPU. 
+2. UU ITE No 11 pasal 30 ayat 3 tahun 2008, yang berbunyi: ”Setiap orang dengan sengaja dan tanpa hak atau melawan hukum mengakses computer dan atau sistem Elektronik dengan cara apa pun dengan melanggar, menerobos, melampaui, atau menjebol sistem pengamanan" karena Dani Firmansyah telah terbukti, dia melakukan penghinaan dan pencemaran nama baik partai-partai yang ada dalam situs KPU dengan cara mengganti-ganti nama partai tersebut. tidak hanya itu Dani Firmansyah juga telah terbukti jelas bahwa dia melakukan menjebolkan sistem keamanan pada situs KPU. 
 
 Beberapa solusi untuk mencegah kasus di atas adalah:
 
@@ -150,6 +150,8 @@ Beberapa solusi untuk mencegah kasus di atas adalah:
 2. Perlunya Dukungan Lembaga Khusus: Lembaga ini diperlukan untuk memberikan informasi tentang cybercrime, melakukan sosialisasi secara intensif kepada masyarakat, serta melakukan riset-riset khusus dalam penanggulangan cybercrime. 
 
 3. Penggunaan enkripsi untuk meningkatkan keamanan. Penggunaan enkripsi yaitu dengan mengubah data-data yang dikirimkan sehingga tidak mudah disadap (plaintext diubah menjadi chipertext). Untuk meningkatkan keamanan authentication (pengunaan user_id dan password), penggunaan enkripsi dilakukan pada tingkat socket.
+
+##### F. Study Kasus
 
 Penanggulangan dan Pencegahan Data Forgery 
 Sebelum membahasanya saya akan memberikan contoh kasus lagi:
@@ -194,7 +196,7 @@ Cara Mencegah terjadinya Data Forgery, adapun cara untuk mencegah terjadinya kej
 
 4. Para pengguna juga diharapkan untuk lebih waspada dan teliti sebelum memasukkan data-data nya di internet, mengingat kejahatan ini sering terjadi karena kurangnya ketelitian pengguna.
 
-##### F. Dasar Hukum Tentang Data Forgery
+##### G. Dasar Hukum Tentang Data Forgery
 
 Adapun dasar hukum tentang Data Forgery yaitu tercantum dalam sebagai berikut:
 
