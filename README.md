@@ -9,7 +9,7 @@
 <!-- bab satu -->
 #### BAB I PENDAHULUAN
 
-##### 1.1 Latar Belakang Masalah
+##### 1.1. Latar Belakang Masalah
 
 Kemajuan teknologi dan informasi saat ini memudahkan dan mempercepat akses internet bagi setiap orang. Teknologi berguna bagi manusia bila digunakan dengan benar. Teknologi saat ini berperan penting dalam perkembangan informasi baik yang dapat menciptakan informasi yang baik maupun informasi yang sengaja disalah gunakan. Pada sistem penyimpanan data perusahaan/instansi yang saat ini  menggunakan komputer sebagai tempat penyimpanan  utama, walaupun komputer telah terkomputerisasi, beberapa individu masih dapat melakukan pencurian data baik untuk kepentingan pribadi.
 
@@ -24,7 +24,7 @@ Menurut Kamus Besar Bahasa Indonesia, pengertian data adalah informasi yang nyat
 Faktor Pendukung seseorang untuk melakukan data forgery adalah Faktor Politik yang biasanya dilakukan oleh oknum-oknum tertentu untuk mencari informasi tentang lawan. Faktor Politik dengan latar belakang ekonomi, siapa saja dan bisa melakukan apa saja, apalagi dengan kompleksnya dunia maya, kejahatan semakin mudah dilakukan dengan modal yang cukup dan keahlian di bidang komputer. Karena teknologi saat ini semakin canggih, juga merangsang rasa ingin tahu para pecinta teknologi dan mendorong mereka untuk bereksperimen. Banyak potensi sumber daya manusia di bidang IT yang tidak dioptimalkan sehingga  melakukan kejahatan dunia maya.
 
 
-##### 1.2 Maksud dan Tujuan
+##### 1.2. Maksud dan Tujuan
 
 Adapun maksud dan tujuan dari di buatnya makalah ini adalah : 
 
@@ -110,7 +110,6 @@ Penggunaan cara ini sebenarnya bisa dibilang jauh lebih mudah dibandingkan denga
 ##### B. Faktor yang Mendorong Kejahatan Data Forgery
 
 Adapun faktor pendorong penyebab terjadinya data forgery adalah sebagai berikut:
-
 1. Faktor Politik, Faktor ini biasanya dilakukan oleh oknum-oknum tertentu untuk mencari informasi tentang lawan politiknya.  
 
 2. Faktor Ekonomi, karna latar belakang ekonomi orang bisa melakukan apa saja, apalagi dengan kecanggihan dunia cyber kejahatan semangkin mudah dilakukan dengan modal cukup dengan keahlian dibidang komputer saja. 
@@ -122,7 +121,6 @@ Adapun faktor pendorong penyebab terjadinya data forgery adalah sebagai beri
    3. Komunitas, Untuk membuktikan keahlian mereka dan ingin dilihat orang atau dibilang hebat dan akhirnya tanpa sadar mereka telah melanggar peraturan ITE.
  
 ##### C. Contoh Kasus
-
 Data Forgery Pada KPU.go.id
 
 Pada hari rabu 17/4/2004, Dani Firmansyah (25 tahun) konsultan teknologi informasi TI, PT. Dana Reksa di Jakarta, berhasil membobol situs milik KPU di http://tnp.kpu.go.id dan mengubah nama-nama partai di dalamnya menjadi nama unik seperti partai kolor ijo, partai mbah jambon, partai jambu dan sebagainya. Dani menggunakan teknik SQL injection (pada dasarnya teknik tersebut adalah dengan cara mengetikkan string atau perintah tertentu di address bar browser) untuk menjebol situs KPU, kemudian Dani tertangkap pada kamis 22/4/2004. Ancaman hukuman bagi tindakan yang dilakukan Dani Firmansyah adalah sesuai dengan bunyi pasal 50 UU No 36/1999 tentang telekomunikasi berbunyi ”Barang siapa yang melanggar ketentuan sebagaimana dimaksud dalam pasal 22, dipidana dengan pidana penjara paling lama 6 tahun dan atau denda paling banyak  Rp 600.000.000,00.
@@ -228,7 +226,33 @@ Setiap Orang yang memenuhi unsur sebagaimana dimaksud dalam pasal 35 dipidana pe
 
 #### BAB IV
 
-something goes here...
+##### 1.1. Kesimpulan
+
+Kehidupan kita saat ini bergantung erat dengan teknologi, terutama penggunaan teknologi elektronik dan jaringan cepat yang kita sebut internet. Penggunaan internet sudah populer pada tahun 2000-an dimanah pada saat itu terjadi perkembangan pesat di bidang teknologi website. Tentu saja dengan perkembangan di bidang teknologi ini, keamanan pun menjadi bidang yang harus diperhatikan. Keamanan data menjadi yang paling utama bagi para entrepreneur yang bergelut dibidang pelayanan dengan dasar penggunaan website atau penggunaan jaringan internet. Salah satu yang mengancam sebuah keamanan yaitu metode pencurian data atau data forgery atau pencurian data dengan cara menipu korban sehingga korban lengah terhadap data privasi mereka. 
+
+Data Forgery adalah istilah yang merujuk pada penyalahgunaan data, pemalsuan  data atau pencurian data. Tindakan kriminal merupakan salah satu modus pelaku pemalsuan atau pencurian data (secara daring) dengan cara mengelabui korbannya sehingga korban secara tidak sengaja (tidak tahu) sudah memberikan informasi pribadi kepada orang lain atau pelaku tersebut.  
+
+Dalam bahasan di atas kita sudah mengulik bagaimana pelaku beroperasi dan bagaimana pencegahannya agar kasus data forgery tidak terulang kembali. Pelaku beroperasi dengan dua modus yaitu: 
+
+1. Dengan penggunaan email penipuan atau email pishing sebutan populernya, dimanah pelaku dengan berbagai cara membujuk atau memberi instruksi korban agar korbannya mengikuti instruksi tersebut.  
+
+2. Atau dengan menggunakan malware untuk mencuri data pribadi, modusnya juga bisa sama seperti contoh pertama, yaitu dengan memberikan instruksi (lewat email) bahwa dengan mengeklik suatu URL yang tentunya dapat secara otomatis mengunduh sebuah malware.  
+
+Saat ini penggunaan internet sudah menjadi lebih aman dengan banyak layanan yang terjamin keamanannya, salah satu contohnya penggunaan data verifikasi dua langkah saat memasukkan password dan data rahasia lainnya. Penipuan atau data forgery juga dapat  kita cegah dari diri sendiri, dengan mempelajari sebuah teknologi beserta mengerti keamanan aplikasi tersebut.
+
+##### 1.2. Saran
+
+Berbagai cara sudah dilakukan pemerintah dan lembaga yang berkecimpung di bidang keamanan IT untuk mencegah terjadinya kecolongan data, terutama data yang bersifat sensitif atau rahasia. Dengan mempelajari bagaimana hacker mencuri data dan mempelajari apa motif dan modus  para pelaku tersebut kita akan memahami bagaimana pencegahan dapat dilakukan dengan efektif.  
+
+Lalu bagaimana dengan penggunanya, sebagai target pelaku data forgery maka kita sepatutnya tahu apa yang harus kita jaga kerahasiaannya dan apa yang bisa kita publikasikan di sebuah platform. Berikut beberapa tindakan pencegahan yang dapat kita lakukan agar terhindar dari serangan Data Forgery: 
+
+1. **Cari tahu siapa pengirim email**, memastikan sebuah email aman adalah setelah kita tahu siapa pengirimnya,   jika kita mengetahui maksud dari email tersebut maka kita dapat menilai apakah email tersebut legal atau ilegal. Biasanya sebuah lembaga /institusi tidak akan meminta informasi mengenai data sensitif seperti password/pin. Jika hal ini terjadi maka yang dapat kita lakukan adalah dengan melaporkan atau setidaknya memberi label spam pada alamat email tersebut.  
+
+2. **Pastikan URL aman**, kadang-kadang saat kita berselancar di internet atau di dalam sebuah email akan kita temui alamat URL yang tidak kita tahu. Maka saat itulah kita harus waspada, yakinkan apakah URL tersebut aman untuk dikunjungi atau mungkin terdapat sebuah malware.  
+
+3. **Jangan asal mengunduh sebuah data atau aplikasi**, mengunduh sebuah aplikasi yang kita tidak tahu sumbernya akan sangat berisiko, karena mungkin saja aplikasi itu dapat menyebarkan virus atau malware. 
+
+Pencegahan data forgery  dapat dilakukan mulai dari sendiri, waspada terhadap penipuan atau pengelabuan yang sifatnya meminta data pribadi atau rahasia. Teliti juga saat mengunjungi sebuah situs, perhatikan apakah situs ini aman atau tidak. Banyak hal yang dapat pengguna internet lakukan agar tidak menjadi korban penipuan, pemalsuan atau pencurian data, dengan modal wawasan mengenai isu penipuan atau modus penipuan sudah cukup membawa aman saat berselancar di internet. 
 
 ****************************************************************
 <!-- bagian about us -->
