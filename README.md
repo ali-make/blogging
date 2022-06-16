@@ -106,7 +106,9 @@ Yang dimaksud dengan server side adalah pemalsuan yang cara mendapatkan data
 
 2. Client Side (sisi pengguna)
 Penggunaan cara ini sebenarnya bisa dibilang jauh lebih mudah dibandingkan dengan server side, karena si pelaku tidak perlu untuk membuat sebuah fake website. Si pelaku hanya memanfaatkan sebuah aplikasi yang sebenarnya legal, hanya saja penggunaannya yang disalahgunakan. Ternyata data forgery tidak sesulit kedengarannya, dan tentunya hal ini sangat merisaukan para pengguna internet, karena pasti akan memikirkan mengenai keamanan data-datanya di internet.
-    
+
+
+
 ##### B. Faktor yang Mendorong Kejahatan Data Forgery
 Adapun faktor pendorong penyebab terjadinya data forgery adalah sebagai berikut:
 1. Faktor Politik, Faktor ini biasanya dilakukan oleh oknum-oknum tertentu untuk mencari informasi tentang lawan politiknya.  
@@ -118,7 +120,9 @@ Adapun faktor pendorong penyebab terjadinya data forgery adalah sebagai beri
    1. Kemajuan Teknologi Informasi, Karena teknologi sekarang semangkin canggih dan seiring itu pun mendorong rasa ingin tahu para pencinta teknologi dan mendorong mereka melakukan eksperimen.
    2. Sumber Daya Manusia, Banyak sumber daya manusia yang memiliki potensi dalam bidang IT yang tidak dioptimalkan sehingga mereka melakukan kejahatan cyber.
    3. Komunitas, Untuk membuktikan keahlian mereka dan ingin dilihat orang atau dibilang hebat dan akhirnya tanpa sadar mereka telah melanggar peraturan ITE.
- 
+
+
+
 ##### C. Contoh Kasus
 >Data Forgery Pada KPU.go.id
 Pada hari rabu 17/4/2004, Dani Firmansyah (25 tahun) konsultan teknologi informasi TI, PT. Dana Reksa di Jakarta, berhasil membobol situs milik KPU di http://tnp.kpu.go.id dan mengubah nama-nama partai di dalamnya menjadi nama unik seperti partai kolor ijo, partai mbah jambon, partai jambu dan sebagainya. Dani menggunakan teknik SQL injection (pada dasarnya teknik tersebut adalah dengan cara mengetikkan string atau perintah tertentu di address bar browser) untuk menjebol situs KPU, kemudian Dani tertangkap pada kamis 22/4/2004. Ancaman hukuman bagi tindakan yang dilakukan Dani Firmansyah adalah sesuai dengan bunyi pasal 50 UU No 36/1999 tentang telekomunikasi berbunyi ”Barang siapa yang melanggar ketentuan sebagaimana dimaksud dalam pasal 22, dipidana dengan pidana penjara paling lama 6 tahun dan atau denda paling banyak  Rp 600.000.000,00.
