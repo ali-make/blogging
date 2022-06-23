@@ -13,17 +13,12 @@ p {
 
 hr {
   height: 4px;
-  background-color: #53bf9d;
+  background-color: #ea6f5a;
+  border-color: #ea6f5a !important;
 }
 
 img {
   display: block;
   margin: 0 auto;
-  width: 400px;
-}
-
-@media (max-width: 540px) {
-  img {
-    width: 200px;
-  }
+  width: 200px;
 }
