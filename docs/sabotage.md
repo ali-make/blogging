@@ -124,7 +124,7 @@ Berkaitan dengan Cyber Crime tersebut maka perlu adanya upaya untuk pencegah
 
 * Segera membuat regulasi yang berkaitan dengan cyber law pada    umumnya dan Cyber Crime pada khususnya. 
 
-* Kejahatan ini merupakan global crime makan perlu mempertimbangkan draft internasional yang berkaitan dengan cybercrime. 
+* Kejahatan ini merupakan global crime maka diperlukannya pertimbangan draft internasional yang berkaitan dengan cybercrime. 
 
 * Melakukan perjanjian ekstradisi dengan Negara lain. 
 
