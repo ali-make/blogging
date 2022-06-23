@@ -1,7 +1,7 @@
 <!-- bagian about us -->
 #### TENTANG KAMI
 
-![UBSI](../../images/ubsi.png)
+![UBSI](../images/ubsi.png)
 
 > Blog ini didedikasikan untuk memenuhi tugas kelompok EPTIK
 
